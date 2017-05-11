@@ -1,0 +1,1 @@
+begin a = b; a = b + a; end
